@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/8ca8d836-829b-4916-9bac-c248ea13ea47)
 
 ## DESIGN STEPS
 
